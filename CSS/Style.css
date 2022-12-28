@@ -1,0 +1,30 @@
+
+.navbar-iframe{
+    width: 100%;
+    height: 100px;
+}
+
+.showcase-iframe{
+    width: 100%;
+    height: 100vh;
+}
+
+.speakers-iframe{
+    width: 100%;
+    height: 700px;
+}
+
+.cta-iframe{
+    width: 100%;
+    height: 700px;
+}
+
+.form-iframe{
+    width: 100%;
+    height: 550px;
+}
+
+footer {
+    background-color:rgba(3, 42, 94, 0.763);
+    list-style-type:none;
+ }
